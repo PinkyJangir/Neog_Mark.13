@@ -1,0 +1,33 @@
+body {
+
+    margin: 0;
+    padding: 1rem;
+    box-sizing: border-box;
+    height: 100vh;
+    background-color: hsl(300, 6%, 65%);
+    color: white;
+  }
+  
+  .main {
+    border: 1px solid white;
+    text-align: center;
+    height: 100%;
+    font-family: cursive;
+  }
+  
+  p {
+    padding: 2rem;
+    text-align: left;
+    font-size: large;
+    color: black;
+    height: 20px;
+    width: 5px;
+  }
+  #show-btn{
+      color: rgb(204, 204, 196);
+      height: 50px;
+      width: 50px;
+  }
+  .me{
+    color: black;
+  }
