@@ -9,9 +9,7 @@ body {
   }
   
   .main {
-    border: 1px solid white;
     text-align: center;
-    height: 100%;
     font-family: cursive;
   }
   
@@ -20,13 +18,13 @@ body {
     text-align: left;
     font-size: large;
     color: black;
-    height: 20px;
-    width: 5px;
+    text-align: center;
   }
   #show-btn{
-      color: rgb(204, 204, 196);
-      height: 50px;
-      width: 50px;
+      color: black;
+      padding: 0.5rem 1rem;
+      border-radius: 0.5rem;
+      background-color:aqua;
   }
   .me{
     color: black;
